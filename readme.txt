@@ -12,7 +12,9 @@ Makes any link to a file open in a new tab by adding 'target="_blank"' to the li
 
 == Description ==
 
-This plugin enqueues a simple jQuery script ([see script here](https://gist.github.com/abrudtkuhl/94a6f58d1f76439fa6fb)) that links for any anchor tag (<a>) that has an href property to something with a file extension of 1-5 characters.
+This plugin enqueues a simple jQuery script that links for any anchor tag (<a>) that has an href property to something with a file extension of 1-5 characters.
+
+[see script here](https://gist.github.com/abrudtkuhl/94a6f58d1f76439fa6fb)
 
 This means any link to a .pdf, .txt, .ppt, .doc, .xls, .xlst, etc will automatically have the property 'target="_blank"' added to it so it opens in a new window or browser tab.
 
